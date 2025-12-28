@@ -46,7 +46,6 @@ public class BasicTest1 {
             throw new RuntimeException(e);
         }
 
-
         System.out.println("Isi saldo bank : " + account.getSaldo());
     }
 }
