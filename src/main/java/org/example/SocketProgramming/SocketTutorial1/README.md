@@ -17,7 +17,7 @@ Proyek ini **tidak menggunakan framework** (Spring, Netty, dsb.) sehingga cocok 
 
 ```
 org.example.SocketProgramming.SocketTutorial1
-│
+|
 ├── Client.java
 ├── Server.java
 ├── Server2.java
