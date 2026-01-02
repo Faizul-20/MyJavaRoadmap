@@ -106,4 +106,9 @@ public class MultiServer {
 
         System.out.println("Server dan ThreadPool telah di shutdoen");
     }
+
+    public static void main(String[] args) throws IOException{
+        MultiServer multiServer = new MultiServer();
+        multiServer.startConnection(8080);
+    }
 }
